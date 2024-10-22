@@ -1485,11 +1485,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Alunos\\Desktop\\Gab\\2° modulo\\Agosto\\1° semana 5-9\\Paulo\\TrabalhoFinal\\TrabalhoFinal\\GerenciamentoVolei.csproj",
+      "projectUniqueName": "C:\\Users\\Alunos\\Desktop\\Gab\\2° modulo\\Agosto\\1° semana 5-9\\Paulo\\Trabalho Final de C\\TrabalhoFinal\\GerenciamentoVolei.csproj",
       "projectName": "GerenciamentoVolei",
-      "projectPath": "C:\\Users\\Alunos\\Desktop\\Gab\\2° modulo\\Agosto\\1° semana 5-9\\Paulo\\TrabalhoFinal\\TrabalhoFinal\\GerenciamentoVolei.csproj",
+      "projectPath": "C:\\Users\\Alunos\\Desktop\\Gab\\2° modulo\\Agosto\\1° semana 5-9\\Paulo\\Trabalho Final de C\\TrabalhoFinal\\GerenciamentoVolei.csproj",
       "packagesPath": "C:\\Users\\Alunos\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Alunos\\Desktop\\Gab\\2° modulo\\Agosto\\1° semana 5-9\\Paulo\\TrabalhoFinal\\TrabalhoFinal\\obj\\",
+      "outputPath": "C:\\Users\\Alunos\\Desktop\\Gab\\2° modulo\\Agosto\\1° semana 5-9\\Paulo\\Trabalho Final de C\\TrabalhoFinal\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Alunos\\AppData\\Roaming\\NuGet\\NuGet.Config",
