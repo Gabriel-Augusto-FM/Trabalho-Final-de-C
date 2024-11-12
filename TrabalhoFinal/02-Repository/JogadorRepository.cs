@@ -4,16 +4,18 @@ using System.Data.SQLite;
 using System.Threading.Tasks;
 using Dapper;
 using Dapper.Contrib.Extensions;
+using GerenciamentoVolei._02_Repository.Interfaces;
 using GerenciamentoVolei._03_Entidades;
+using Microsoft.Extensions.Configuration;
 
 namespace GerenciamentoVolei._04_Repositories
 {
-    public class JogadorRepository
+    public class JogadorRepository : IJogadorRepository
     {
         private readonly string ConnectionString;
-        public JogadorRepository(string connectioString)
+        public JogadorRepository(IConfiguration config)
         {
-            ConnectionString = connectioString;
+            ConnectionString = config.GetConnectionString("DefaultConnection");
         }
 
         public void Adicionar(Jogador jogador)

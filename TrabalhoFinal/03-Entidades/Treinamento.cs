@@ -14,6 +14,5 @@ namespace GerenciamentoVolei._03_Entidades
         public int IdTreinamento { get; set; }
         public DateTime Data { get; set; }
         public string Descricao { get; set; }
-        public List<PresencaRepository> Presencas { get; set; }
     }
 }

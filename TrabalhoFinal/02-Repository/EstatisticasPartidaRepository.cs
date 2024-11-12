@@ -8,15 +8,17 @@ using System.Threading.Tasks;
 using GerenciamentoVolei._03_Entidades;
 using System.Data.SQLite;
 using Dapper.Contrib.Extensions;
+using GerenciamentoVolei._02_Repository.Interfaces;
+using Microsoft.Extensions.Configuration;
 
 namespace GerenciamentoVolei._03_Repository
 {
-    public class EstatisticasPartidaRepository
+    public class EstatisticasPartidaRepository : IEstatisticasPartidaRepository
     {
         private readonly string ConnectionString;
-        public EstatisticasPartidaRepository(string connectioString)
+        public EstatisticasPartidaRepository(IConfiguration config)
         {
-            ConnectionString = connectioString;
+            ConnectionString = config.GetConnectionString("DefaultConnection");
         }
 
         public void Adicionar(EstatisticasPartida estatistica)

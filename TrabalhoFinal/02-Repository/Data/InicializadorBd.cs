@@ -14,12 +14,12 @@ namespace GerenciamentoVolei._02_Repository.Data
                 connection.Open();
 
                 string commandoSQL = @"
-                    CREATE TABLE IF NOT EXISTS Equipe(
+                    CREATE TABLE IF NOT EXISTS Equipes(
                         Id INTEGER PRIMARY KEY AUTOINCREMENT,
                         Nome TEXT NOT NULL
                     );
 
-                    CREATE TABLE IF NOT EXISTS Jogador(
+                    CREATE TABLE IF NOT EXISTS Jogadors(
                         Id INTEGER PRIMARY KEY AUTOINCREMENT,
                         Nome TEXT NOT NULL,
                         Posicao TEXT NOT NULL,
@@ -27,14 +27,14 @@ namespace GerenciamentoVolei._02_Repository.Data
                         FOREIGN KEY (EquipeId) REFERENCES Equipe(Id)
                     );
 
-                    CREATE TABLE IF NOT EXISTS Treinador(
+                    CREATE TABLE IF NOT EXISTS Treinadors(
                         Id INTEGER PRIMARY KEY AUTOINCREMENT,
                         Nome TEXT NOT NULL,
                         EquipeId INTEGER,
                         FOREIGN KEY (EquipeId) REFERENCES Equipe(Id)
                     );
 
-                    CREATE TABLE IF NOT EXISTS Partida(
+                    CREATE TABLE IF NOT EXISTS Partidas(
                         Id INTEGER PRIMARY KEY AUTOINCREMENT,
                         Data DATETIME NOT NULL,
                         Equipe1Id INTEGER,
@@ -43,7 +43,7 @@ namespace GerenciamentoVolei._02_Repository.Data
                         FOREIGN KEY (Equipe2Id) REFERENCES Equipe(Id)
                     );
 
-                    CREATE TABLE IF NOT EXISTS EstatisticasPartida(
+                    CREATE TABLE IF NOT EXISTS EstatisticasPartidas(
                         Id INTEGER PRIMARY KEY AUTOINCREMENT,
                         PartidaId INTEGER,
                         JogadorId INTEGER,
@@ -54,13 +54,13 @@ namespace GerenciamentoVolei._02_Repository.Data
                         FOREIGN KEY (JogadorId) REFERENCES Jogador(Id)
                     );
 
-                    CREATE TABLE IF NOT EXISTS Treinamento(
-                        Id INTEGER PRIMARY KEY AUTOINCREMENT,
-                        Data DATETIME NOT NULL,
+                    CREATE TABLE IF NOT EXISTS Treinamentos(
+                        IdTreinamento INTEGER PRIMARY KEY AUTOINCREMENT,
+                        Data TEXT NOT NULL,
                         Descricao TEXT
                     );
 
-                    CREATE TABLE IF NOT EXISTS Presenca(
+                    CREATE TABLE IF NOT EXISTS Presencas(
                         Id INTEGER PRIMARY KEY AUTOINCREMENT,
                         TreinamentoId INTEGER,
                         JogadorId INTEGER,

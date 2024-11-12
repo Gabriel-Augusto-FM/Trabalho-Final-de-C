@@ -6,16 +6,20 @@ using System.Linq;
 using System.Threading.Tasks;
 using Dapper;
 using Dapper.Contrib.Extensions;
+using GerenciamentoVolei._01_Services;
+using GerenciamentoVolei._01_Services.Interfaces;
+using GerenciamentoVolei._02_Repository.Interfaces;
 using GerenciamentoVolei._03_Entidades;
+using Microsoft.Extensions.Configuration;
 
 namespace GerenciamentoVolei._03_Repository
 {
-    public class EquipeRepository
+    public class EquipeRepository : IEquipeRepository
     {
         private readonly string ConnectionString;
-        public EquipeRepository(string connectioString)
+        public EquipeRepository(IConfiguration config)
         {
-            ConnectionString = connectioString;
+            ConnectionString = config.GetConnectionString("DefaultConnection");
         }
 
         public void Adicionar(Equipe equipe)

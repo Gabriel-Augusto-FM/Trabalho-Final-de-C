@@ -8,16 +8,18 @@ using System.Threading.Tasks;
 using GerenciamentoVolei._03_Entidades;
 using System.Data.SQLite;
 using Dapper.Contrib.Extensions;
+using GerenciamentoVolei._02_Repository.Interfaces;
+using Microsoft.Extensions.Configuration;
 
 namespace GerenciamentoVolei._03_Repository
 {
-        public class TreinadorRepository
+        public class TreinadorRepository : ITreinadorRepository
         {
             private readonly string ConnectionString;
-            public TreinadorRepository(string connectioString)
-            {
-                ConnectionString = connectioString;
-            }
+            public TreinadorRepository(IConfiguration config)
+        {
+            ConnectionString = config.GetConnectionString("DefaultConnection");
+        }
 
             public void Adicionar(Treinador treinador)
             {
