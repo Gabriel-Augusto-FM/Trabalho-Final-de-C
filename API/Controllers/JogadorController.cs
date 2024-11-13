@@ -11,9 +11,8 @@ namespace API.Controllers
         private readonly IJogadorService _service;
         private readonly IMapper _mapper;
 
-        public JogadorController(IConfiguration config, IMapper mapper, IJogadorService service)
+        public JogadorController(IMapper mapper, IJogadorService service)
         {
-            string _config = config.GetConnectionString("DefaultConnection");
             _service = service;
             _mapper = mapper;
         }

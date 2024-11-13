@@ -16,25 +16,79 @@ namespace API.Controllers
             _service = service;
         }
 
+        /// <summary>
+        /// Gerencie e agende seu treinamento na data que quiser
+        /// </summary>
+        /// <param name="treinamento"></param>
         [HttpPost("adicionar-treinamento")]
-        public void AdicionarTreinamento(Treinamento treinamento)
+        public IActionResult AdicionarTreinamento(Treinamento treinamento)
         {
-            _service.Adicionar(treinamento);
+            try
+            {
+                _service.Adicionar(treinamento);
+                return Ok();
+            }
+            catch (Exception e)
+            {
+
+                return BadRequest($"Ocorreu um erro ao tentar marcar um treinamento, o erro ocorrido foi:  \n {e.Message}");
+            }
+
         }
+
+        /// <summary>
+        /// Lista os treinamentos agendados
+        /// </summary>
+        /// <returns></returns>
         [HttpGet("listar-treinamento")]
         public List<Treinamento> ListarAluno()
         {
-            return _service.Listar();
+            try
+            {
+                return _service.Listar();
+            }
+            catch (Exception)
+            {
+
+                throw new Exception("Erro ao Listar os treinamentos");
+            }
         }
+
+
+        /// <summary>
+        /// Edita o agendamento de um horario para treinamento
+        /// </summary>
+        /// <param name="t"></param>
         [HttpPut("editar-treinamento")]
-        public void EditarTreinamento(Treinamento t)
+        public IActionResult EditarTreinamento(Treinamento t)
         {
-            _service.Editar(t);
+            try
+            {
+                _service.Editar(t);
+                return NoContent();
+            }
+            catch (Exception e)
+            {
+                return BadRequest($"Ocorreu um erro ao editar o horario e data do treinamento, o erro foi \n {e.Message}");
+            }
         }
+
+        /// <summary>
+        /// Deleta uma venda
+        /// </summary>
+        /// <param name="id"></param>
         [HttpDelete("deletar-treinamento")]
-        public void DeletarTreinamento(int id)
+        public IActionResult DeletarTreinamento(int id)
         {
-            _service.Remover(id);
+            try
+            {
+                _service.Remover(id);
+                return NoContent();
+            }
+            catch (Exception e)
+            {
+                return BadRequest($"Ocorreu um erro ao excluir um agendamento, o erro foi \n {e.Message}");
+            }
         }
     }
 }

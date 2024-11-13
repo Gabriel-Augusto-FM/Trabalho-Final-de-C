@@ -11,9 +11,8 @@ namespace API.Controllers
         private readonly IPresencaService _service;
         private readonly IMapper _mapper;
 
-        public PresencaController(IConfiguration config, IMapper mapper, IPresencaService service)
+        public PresencaController(IMapper mapper, IPresencaService service)
         {
-            string _config = config.GetConnectionString("DefaultConnection");
             _service = service;
             _mapper = mapper;
         }

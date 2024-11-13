@@ -11,9 +11,8 @@ namespace API.Controllers
         private readonly IEstatisticasPartidaService _service;
         private readonly IMapper _mapper;
 
-        public EstatisticasPartidaController(IConfiguration config, IMapper mapper, IEstatisticasPartidaService service)
+        public EstatisticasPartidaController(IMapper mapper, IEstatisticasPartidaService service)
         {
-            string _config = config.GetConnectionString("DefaultConnection");
             _service = service;
             _mapper = mapper;
         }

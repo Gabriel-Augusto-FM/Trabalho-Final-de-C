@@ -11,9 +11,8 @@ namespace API.Controllers
         private readonly IPartidaService _service;
         private readonly IMapper _mapper;
 
-        public PartidaController(IConfiguration config, IMapper mapper, IPartidaService service)
+        public PartidaController(IMapper mapper, IPartidaService service)
         {
-            string _config = config.GetConnectionString("DefaultConnection");
             _service = service;
             _mapper = mapper;
         }

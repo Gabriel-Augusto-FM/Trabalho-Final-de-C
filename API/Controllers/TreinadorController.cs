@@ -11,11 +11,13 @@ namespace API.Controllers
         private readonly ITreinadorService _service;
         private readonly IMapper _mapper;
 
-        public TreinadorController(IConfiguration config, IMapper mapper, ITreinadorService service)
+        public TreinadorController(IMapper mapper, ITreinadorService service)
         {
-            string _config = config.GetConnectionString("DefaultConnection");
             _service = service;
             _mapper = mapper;
         }
+
+
+
     }
 }
