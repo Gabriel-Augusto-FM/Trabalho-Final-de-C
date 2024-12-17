@@ -38,5 +38,10 @@ namespace GerenciamentoVolei._01_Services
         {
             return repositorio.Listar();
         }
+
+        public void Editar(Partida e)
+        {
+            throw new NotImplementedException();
+        }
     }
 }

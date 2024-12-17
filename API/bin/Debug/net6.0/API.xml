@@ -1,0 +1,128 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>API</name>
+    </assembly>
+    <members>
+        <member name="M:API.Controllers.EquipeController.AdicionarTreinamento(GerenciamentoVolei._03_Entidades.Equipe)">
+            <summary>
+            Registre uma nova equipe
+            </summary>
+            <param name="equipe"></param>
+        </member>
+        <member name="M:API.Controllers.EquipeController.ListarEquipes">
+            <summary>
+            Lista as equipes registradas
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:API.Controllers.EquipeController.EditarEquipe(GerenciamentoVolei._03_Entidades.Equipe)">
+            <summary>
+            Edita as informações de uma equipe
+            </summary>
+            <param name="e"></param>
+        </member>
+        <member name="M:API.Controllers.EquipeController.DeletarEquipe(System.Int32)">
+            <summary>
+            Deletar uma equipe registrada
+            </summary>
+            <param name="id"></param>
+        </member>
+        <member name="M:API.Controllers.EstatisticasPartidaController.AdicionarEstatisticasPartida(GerenciamentoVolei._03_Entidades.EstatisticasPartida)">
+            <summary>
+            Registre as estatisticas da partida
+            </summary>
+            <param name="estatisticas"></param>
+        </member>
+        <member name="M:API.Controllers.EstatisticasPartidaController.ListarEstatisticas">
+            <summary>
+            Lista as estatisticas da partida
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:API.Controllers.EstatisticasPartidaController.EditarEstatisticasPartida(GerenciamentoVolei._03_Entidades.EstatisticasPartida)">
+            <summary>
+            Edita as estatisticas de uma partida
+            </summary>
+            <param name="e"></param>
+        </member>
+        <member name="M:API.Controllers.EstatisticasPartidaController.DeletarEstatisticasPartida(System.Int32)">
+            <summary>
+            Deleta as estatisticas da partida
+            </summary>
+            <param name="id"></param>
+        </member>
+        <member name="M:API.Controllers.JogadorController.AdicionarTreinamento(GerenciamentoVolei._03_Entidades.Jogador)">
+            <summary>
+            Registre uma nova partida
+            </summary>
+            <param name="jogador"></param>
+        </member>
+        <member name="M:API.Controllers.JogadorController.ListarJogadores">
+            <summary>
+            Lista os jogadores registrados
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:API.Controllers.JogadorController.EditarJogador(GerenciamentoVolei._03_Entidades.Jogador)">
+            <summary>
+            Edita as informações de um jogador
+            </summary>
+            <param name="j"></param>
+        </member>
+        <member name="M:API.Controllers.JogadorController.DeletarJogador(System.Int32)">
+            <summary>
+            Deletar um jogador registrado
+            </summary>
+            <param name="id"></param>
+        </member>
+        <member name="M:API.Controllers.PartidaController.AdicionarTreinamento(GerenciamentoVolei._03_Entidades.Partida)">
+            <summary>
+            Registre uma nova partida
+            </summary>
+            <param name="partida"></param>
+        </member>
+        <member name="M:API.Controllers.PartidaController.ListarPartidas">
+            <summary>
+            Lista as partidas registradas
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:API.Controllers.PartidaController.EditarPartida(GerenciamentoVolei._03_Entidades.Partida)">
+            <summary>
+            Edita as informações de uma partida
+            </summary>
+            <param name="p"></param>
+        </member>
+        <member name="M:API.Controllers.PartidaController.DeletarPartida(System.Int32)">
+            <summary>
+            Deletar um treinador registrado
+            </summary>
+            <param name="id"></param>
+        </member>
+        <member name="M:API.Controllers.TreinadorController.AdicionarTreinamento(GerenciamentoVolei._03_Entidades.Treinador)">
+            <summary>
+            Registre um novo treinador
+            </summary>
+            <param name="treinador"></param>
+        </member>
+        <member name="M:API.Controllers.TreinadorController.ListarTreinadores">
+            <summary>
+            Lista os treinadores registrados
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:API.Controllers.TreinadorController.EditarTreinador(GerenciamentoVolei._03_Entidades.Treinador)">
+            <summary>
+            Edita as informações de algum treinador
+            </summary>
+            <param name="t"></param>
+        </member>
+        <member name="M:API.Controllers.TreinadorController.DeletarTreinador(System.Int32)">
+            <summary>
+            Deletar um treinador registrado
+            </summary>
+            <param name="id"></param>
+        </member>
+    </members>
+</doc>

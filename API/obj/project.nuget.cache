@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "r5W8epCfs4Ycz1SGtHxoUfclzl8l+vzcX0pB2rA4HcILJPBQOb1WqEKQ1tPdk2rkUPuOhY+sj59QB4TMChYJcg==",
+  "dgSpecHash": "B/iKsbzH3vxOA8SqaPTKdklXz9FoaTR5BKFhLxFXWBTpbPsNCUrvYDqAqAs17DoSM8JSkz/fXO2m+ie0aCNkxA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Alunos\\Desktop\\Gab\\2° modulo\\Agosto\\1° semana 5-9\\Paulo\\Trabalho Final de C\\API\\API.csproj",
+  "projectFilePath": "C:\\Users\\Alunos\\Desktop\\Gab\\trabalho final paulo\\trabalho final paulo\\API\\API.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Alunos\\.nuget\\packages\\automapper\\13.0.1\\automapper.13.0.1.nupkg.sha512",
     "C:\\Users\\Alunos\\.nuget\\packages\\dapper\\2.1.35\\dapper.2.1.35.nupkg.sha512",

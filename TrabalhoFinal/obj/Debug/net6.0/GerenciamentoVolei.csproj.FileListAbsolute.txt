@@ -12,3 +12,26 @@ C:\Users\Alunos\Desktop\Gab\2° modulo\Agosto\1° semana 5-9\Paulo\Trabalho Fina
 C:\Users\Alunos\Desktop\Gab\2° modulo\Agosto\1° semana 5-9\Paulo\Trabalho Final de C\TrabalhoFinal\obj\Debug\net6.0\GerenciamentoVolei.pdb
 C:\Users\Alunos\Desktop\Gab\2° modulo\Agosto\1° semana 5-9\Paulo\Trabalho Final de C\TrabalhoFinal\obj\Debug\net6.0\GerenciamentoVolei.genruntimeconfig.cache
 C:\Users\Alunos\Desktop\Gab\2° modulo\Agosto\1° semana 5-9\Paulo\Trabalho Final de C\TrabalhoFinal\obj\Debug\net6.0\ref\GerenciamentoVolei.dll
+D:\ARQUIVOS PESSOAIS\Gabriel\Gabriel\Trabalhos Trilhas\trabalho final paulo\TrabalhoFinal\obj\Debug\net6.0\GerenciamentoVolei.csproj.AssemblyReference.cache
+D:\ARQUIVOS PESSOAIS\Gabriel\Gabriel\Trabalhos Trilhas\trabalho final paulo\TrabalhoFinal\obj\Debug\net6.0\GerenciamentoVolei.GeneratedMSBuildEditorConfig.editorconfig
+D:\ARQUIVOS PESSOAIS\Gabriel\Gabriel\Trabalhos Trilhas\trabalho final paulo\TrabalhoFinal\obj\Debug\net6.0\GerenciamentoVolei.AssemblyInfoInputs.cache
+D:\ARQUIVOS PESSOAIS\Gabriel\Gabriel\Trabalhos Trilhas\trabalho final paulo\TrabalhoFinal\obj\Debug\net6.0\GerenciamentoVolei.AssemblyInfo.cs
+D:\ARQUIVOS PESSOAIS\Gabriel\Gabriel\Trabalhos Trilhas\trabalho final paulo\TrabalhoFinal\obj\Debug\net6.0\GerenciamentoVolei.csproj.CoreCompileInputs.cache
+D:\ARQUIVOS PESSOAIS\Gabriel\Gabriel\Trabalhos Trilhas\trabalho final paulo\TrabalhoFinal\obj\Debug\net6.0\GerenciamentoVolei.sourcelink.json
+D:\ARQUIVOS PESSOAIS\Gabriel\Gabriel\Trabalhos Trilhas\trabalho final paulo\TrabalhoFinal\obj\Debug\net6.0\GerenciamentoVolei.dll
+D:\ARQUIVOS PESSOAIS\Gabriel\Gabriel\Trabalhos Trilhas\trabalho final paulo\TrabalhoFinal\obj\Debug\net6.0\refint\GerenciamentoVolei.dll
+D:\ARQUIVOS PESSOAIS\Gabriel\Gabriel\Trabalhos Trilhas\trabalho final paulo\TrabalhoFinal\obj\Debug\net6.0\GerenciamentoVolei.pdb
+C:\Users\Alunos\Desktop\Gab\trabalho final paulo\trabalho final paulo\TrabalhoFinal\obj\Debug\net6.0\GerenciamentoVolei.csproj.AssemblyReference.cache
+C:\Users\Alunos\Desktop\Gab\trabalho final paulo\trabalho final paulo\TrabalhoFinal\obj\Debug\net6.0\GerenciamentoVolei.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alunos\Desktop\Gab\trabalho final paulo\trabalho final paulo\TrabalhoFinal\obj\Debug\net6.0\GerenciamentoVolei.AssemblyInfoInputs.cache
+C:\Users\Alunos\Desktop\Gab\trabalho final paulo\trabalho final paulo\TrabalhoFinal\obj\Debug\net6.0\GerenciamentoVolei.AssemblyInfo.cs
+C:\Users\Alunos\Desktop\Gab\trabalho final paulo\trabalho final paulo\TrabalhoFinal\obj\Debug\net6.0\GerenciamentoVolei.csproj.CoreCompileInputs.cache
+C:\Users\Alunos\Desktop\Gab\trabalho final paulo\trabalho final paulo\TrabalhoFinal\obj\Debug\net6.0\GerenciamentoVolei.dll
+C:\Users\Alunos\Desktop\Gab\trabalho final paulo\trabalho final paulo\TrabalhoFinal\obj\Debug\net6.0\refint\GerenciamentoVolei.dll
+C:\Users\Alunos\Desktop\Gab\trabalho final paulo\trabalho final paulo\TrabalhoFinal\obj\Debug\net6.0\GerenciamentoVolei.pdb
+C:\Users\Alunos\Desktop\Gab\trabalho final paulo\trabalho final paulo\TrabalhoFinal\bin\Debug\net6.0\GerenciamentoVolei.deps.json
+C:\Users\Alunos\Desktop\Gab\trabalho final paulo\trabalho final paulo\TrabalhoFinal\bin\Debug\net6.0\GerenciamentoVolei.runtimeconfig.json
+C:\Users\Alunos\Desktop\Gab\trabalho final paulo\trabalho final paulo\TrabalhoFinal\bin\Debug\net6.0\GerenciamentoVolei.dll
+C:\Users\Alunos\Desktop\Gab\trabalho final paulo\trabalho final paulo\TrabalhoFinal\bin\Debug\net6.0\GerenciamentoVolei.pdb
+C:\Users\Alunos\Desktop\Gab\trabalho final paulo\trabalho final paulo\TrabalhoFinal\obj\Debug\net6.0\GerenciamentoVolei.genruntimeconfig.cache
+C:\Users\Alunos\Desktop\Gab\trabalho final paulo\trabalho final paulo\TrabalhoFinal\obj\Debug\net6.0\ref\GerenciamentoVolei.dll

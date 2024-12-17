@@ -7,7 +7,7 @@ namespace GerenciamentoVolei._02_Repository.Data
     {
         private const string ConnectionString = "Data Source=Volei.db";
 
-        public static void Incializar()
+        public static void Inicializar()
         {
             using (var connection = new SQLiteConnection(ConnectionString))
             {

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "M9/eSXM3fhcJBTvgDl8GqDgzuj6o8QzfHgjWBub3n7Bc2JTiRIpt4f7oSrrs6kwl82chGvoQQPvd8/bYzQNUqQ==",
+  "dgSpecHash": "OeRbVxrGLMwJ6z2VupKuzsscae/ho9cRO6Q7AutQsciYCIV5FNAU/aM77Vb2VfYavg9OVK4P5IsOTxnQIdKzsQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Alunos\\Desktop\\Gab\\2° modulo\\Agosto\\1° semana 5-9\\Paulo\\Trabalho Final de C\\TrabalhoFinal\\GerenciamentoVolei.csproj",
+  "projectFilePath": "C:\\Users\\Alunos\\Desktop\\Gab\\trabalho final paulo\\trabalho final paulo\\TrabalhoFinal\\GerenciamentoVolei.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Alunos\\.nuget\\packages\\automapper\\13.0.1\\automapper.13.0.1.nupkg.sha512",
     "C:\\Users\\Alunos\\.nuget\\packages\\dapper\\2.1.35\\dapper.2.1.35.nupkg.sha512",

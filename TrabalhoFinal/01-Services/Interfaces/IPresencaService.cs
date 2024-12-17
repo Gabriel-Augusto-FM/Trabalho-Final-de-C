@@ -12,6 +12,7 @@ namespace GerenciamentoVolei._01_Services.Interfaces
         void Adicionar(Presenca presenca);
         void Remover(int id);
         void Editar(Presenca presenca);
+        void BuscarPorId(int IdPresenca);
         List<Presenca> Listar();
     }
 }

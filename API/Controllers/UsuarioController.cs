@@ -6,7 +6,9 @@ using Microsoft.AspNetCore.Mvc;
 
 namespace API.Controllers
 {
-    public class UsuarioController
+    [ApiController]
+    [Route("[controller]")]
+    public class UsuarioController : ControllerBase
     {
         private readonly IUsuarioService _service;
         private readonly IMapper _mapper;

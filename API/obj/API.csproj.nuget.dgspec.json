@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Alunos\\Desktop\\Gab\\2° modulo\\Agosto\\1° semana 5-9\\Paulo\\Trabalho Final de C\\API\\API.csproj": {}
+    "C:\\Users\\Alunos\\Desktop\\Gab\\trabalho final paulo\\trabalho final paulo\\API\\API.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Alunos\\Desktop\\Gab\\2° modulo\\Agosto\\1° semana 5-9\\Paulo\\Trabalho Final de C\\API\\API.csproj": {
+    "C:\\Users\\Alunos\\Desktop\\Gab\\trabalho final paulo\\trabalho final paulo\\API\\API.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Alunos\\Desktop\\Gab\\2° modulo\\Agosto\\1° semana 5-9\\Paulo\\Trabalho Final de C\\API\\API.csproj",
+        "projectUniqueName": "C:\\Users\\Alunos\\Desktop\\Gab\\trabalho final paulo\\trabalho final paulo\\API\\API.csproj",
         "projectName": "API",
-        "projectPath": "C:\\Users\\Alunos\\Desktop\\Gab\\2° modulo\\Agosto\\1° semana 5-9\\Paulo\\Trabalho Final de C\\API\\API.csproj",
+        "projectPath": "C:\\Users\\Alunos\\Desktop\\Gab\\trabalho final paulo\\trabalho final paulo\\API\\API.csproj",
         "packagesPath": "C:\\Users\\Alunos\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Alunos\\Desktop\\Gab\\2° modulo\\Agosto\\1° semana 5-9\\Paulo\\Trabalho Final de C\\API\\obj\\",
+        "outputPath": "C:\\Users\\Alunos\\Desktop\\Gab\\trabalho final paulo\\trabalho final paulo\\API\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Alunos\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -28,8 +28,8 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "C:\\Users\\Alunos\\Desktop\\Gab\\2° modulo\\Agosto\\1° semana 5-9\\Paulo\\Trabalho Final de C\\TrabalhoFinal\\GerenciamentoVolei.csproj": {
-                "projectPath": "C:\\Users\\Alunos\\Desktop\\Gab\\2° modulo\\Agosto\\1° semana 5-9\\Paulo\\Trabalho Final de C\\TrabalhoFinal\\GerenciamentoVolei.csproj"
+              "C:\\Users\\Alunos\\Desktop\\Gab\\trabalho final paulo\\trabalho final paulo\\TrabalhoFinal\\GerenciamentoVolei.csproj": {
+                "projectPath": "C:\\Users\\Alunos\\Desktop\\Gab\\trabalho final paulo\\trabalho final paulo\\TrabalhoFinal\\GerenciamentoVolei.csproj"
               }
             }
           }
@@ -92,14 +92,14 @@
         }
       }
     },
-    "C:\\Users\\Alunos\\Desktop\\Gab\\2° modulo\\Agosto\\1° semana 5-9\\Paulo\\Trabalho Final de C\\TrabalhoFinal\\GerenciamentoVolei.csproj": {
+    "C:\\Users\\Alunos\\Desktop\\Gab\\trabalho final paulo\\trabalho final paulo\\TrabalhoFinal\\GerenciamentoVolei.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Alunos\\Desktop\\Gab\\2° modulo\\Agosto\\1° semana 5-9\\Paulo\\Trabalho Final de C\\TrabalhoFinal\\GerenciamentoVolei.csproj",
+        "projectUniqueName": "C:\\Users\\Alunos\\Desktop\\Gab\\trabalho final paulo\\trabalho final paulo\\TrabalhoFinal\\GerenciamentoVolei.csproj",
         "projectName": "GerenciamentoVolei",
-        "projectPath": "C:\\Users\\Alunos\\Desktop\\Gab\\2° modulo\\Agosto\\1° semana 5-9\\Paulo\\Trabalho Final de C\\TrabalhoFinal\\GerenciamentoVolei.csproj",
+        "projectPath": "C:\\Users\\Alunos\\Desktop\\Gab\\trabalho final paulo\\trabalho final paulo\\TrabalhoFinal\\GerenciamentoVolei.csproj",
         "packagesPath": "C:\\Users\\Alunos\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Alunos\\Desktop\\Gab\\2° modulo\\Agosto\\1° semana 5-9\\Paulo\\Trabalho Final de C\\TrabalhoFinal\\obj\\",
+        "outputPath": "C:\\Users\\Alunos\\Desktop\\Gab\\trabalho final paulo\\trabalho final paulo\\TrabalhoFinal\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Alunos\\AppData\\Roaming\\NuGet\\NuGet.Config",

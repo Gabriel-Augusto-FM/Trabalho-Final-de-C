@@ -14,5 +14,6 @@ namespace GerenciamentoVolei._02_Repository.Interfaces
         void Editar(Treinador treinador);
         List<Treinador> Listar();
         Treinador BuscarPorId(int IdEstistica);
+        
     }
 }

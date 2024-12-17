@@ -16,5 +16,7 @@ namespace GerenciamentoVolei._01_Services.Interfaces
         Usuario BuscarTimePorId(int id);
         void Editar(Usuario editPessoa);
         Usuario FazerLogin(UsuarioLoginDTO usuarioLogin);
+        void Adicionar(UsuarioLoginDTO usuarioLogin);
+        void Adicionar(int id);
     }
 }

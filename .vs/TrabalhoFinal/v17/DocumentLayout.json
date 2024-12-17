@@ -1,0 +1,422 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\ARQUIVOS PESSOAIS\\Gabriel\\Gabriel\\Trabalhos Trilhas\\trabalho final paulo\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F99095F3-5467-4F4A-ADA6-34145A64C34C}|TrabalhoFinal\\GerenciamentoVolei.csproj|d:\\arquivos pessoais\\gabriel\\gabriel\\trabalhos trilhas\\trabalho final paulo\\trabalhofinal\\02-repository\\treinamentorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F99095F3-5467-4F4A-ADA6-34145A64C34C}|TrabalhoFinal\\GerenciamentoVolei.csproj|solutionrelative:trabalhofinal\\02-repository\\treinamentorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A8AD7F8-016E-4EB3-B366-1C128BE6C937}|API\\API.csproj|d:\\arquivos pessoais\\gabriel\\gabriel\\trabalhos trilhas\\trabalho final paulo\\api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4A8AD7F8-016E-4EB3-B366-1C128BE6C937}|API\\API.csproj|solutionrelative:api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F99095F3-5467-4F4A-ADA6-34145A64C34C}|TrabalhoFinal\\GerenciamentoVolei.csproj|d:\\arquivos pessoais\\gabriel\\gabriel\\trabalhos trilhas\\trabalho final paulo\\trabalhofinal\\01-services\\treinadorservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F99095F3-5467-4F4A-ADA6-34145A64C34C}|TrabalhoFinal\\GerenciamentoVolei.csproj|solutionrelative:trabalhofinal\\01-services\\treinadorservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A8AD7F8-016E-4EB3-B366-1C128BE6C937}|API\\API.csproj|d:\\arquivos pessoais\\gabriel\\gabriel\\trabalhos trilhas\\trabalho final paulo\\api\\controllers\\treinadorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4A8AD7F8-016E-4EB3-B366-1C128BE6C937}|API\\API.csproj|solutionrelative:api\\controllers\\treinadorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A8AD7F8-016E-4EB3-B366-1C128BE6C937}|API\\API.csproj|d:\\arquivos pessoais\\gabriel\\gabriel\\trabalhos trilhas\\trabalho final paulo\\api\\controllers\\partidacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4A8AD7F8-016E-4EB3-B366-1C128BE6C937}|API\\API.csproj|solutionrelative:api\\controllers\\partidacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A8AD7F8-016E-4EB3-B366-1C128BE6C937}|API\\API.csproj|d:\\arquivos pessoais\\gabriel\\gabriel\\trabalhos trilhas\\trabalho final paulo\\api\\controllers\\treinamentocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4A8AD7F8-016E-4EB3-B366-1C128BE6C937}|API\\API.csproj|solutionrelative:api\\controllers\\treinamentocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A8AD7F8-016E-4EB3-B366-1C128BE6C937}|API\\API.csproj|d:\\arquivos pessoais\\gabriel\\gabriel\\trabalhos trilhas\\trabalho final paulo\\api\\controllers\\presencacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4A8AD7F8-016E-4EB3-B366-1C128BE6C937}|API\\API.csproj|solutionrelative:api\\controllers\\presencacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A8AD7F8-016E-4EB3-B366-1C128BE6C937}|API\\API.csproj|d:\\arquivos pessoais\\gabriel\\gabriel\\trabalhos trilhas\\trabalho final paulo\\api\\controllers\\estatisticaspartidacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4A8AD7F8-016E-4EB3-B366-1C128BE6C937}|API\\API.csproj|solutionrelative:api\\controllers\\estatisticaspartidacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F99095F3-5467-4F4A-ADA6-34145A64C34C}|TrabalhoFinal\\GerenciamentoVolei.csproj|d:\\arquivos pessoais\\gabriel\\gabriel\\trabalhos trilhas\\trabalho final paulo\\trabalhofinal\\01-services\\estatisticaspartidaservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F99095F3-5467-4F4A-ADA6-34145A64C34C}|TrabalhoFinal\\GerenciamentoVolei.csproj|solutionrelative:trabalhofinal\\01-services\\estatisticaspartidaservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A8AD7F8-016E-4EB3-B366-1C128BE6C937}|API\\API.csproj|d:\\arquivos pessoais\\gabriel\\gabriel\\trabalhos trilhas\\trabalho final paulo\\api\\controllers\\jogadorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4A8AD7F8-016E-4EB3-B366-1C128BE6C937}|API\\API.csproj|solutionrelative:api\\controllers\\jogadorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A8AD7F8-016E-4EB3-B366-1C128BE6C937}|API\\API.csproj|d:\\arquivos pessoais\\gabriel\\gabriel\\trabalhos trilhas\\trabalho final paulo\\api\\controllers\\equipecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4A8AD7F8-016E-4EB3-B366-1C128BE6C937}|API\\API.csproj|solutionrelative:api\\controllers\\equipecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F99095F3-5467-4F4A-ADA6-34145A64C34C}|TrabalhoFinal\\GerenciamentoVolei.csproj|d:\\arquivos pessoais\\gabriel\\gabriel\\trabalhos trilhas\\trabalho final paulo\\trabalhofinal\\02-repository\\presencarepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F99095F3-5467-4F4A-ADA6-34145A64C34C}|TrabalhoFinal\\GerenciamentoVolei.csproj|solutionrelative:trabalhofinal\\02-repository\\presencarepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F99095F3-5467-4F4A-ADA6-34145A64C34C}|TrabalhoFinal\\GerenciamentoVolei.csproj|d:\\arquivos pessoais\\gabriel\\gabriel\\trabalhos trilhas\\trabalho final paulo\\trabalhofinal\\01-services\\presencaservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F99095F3-5467-4F4A-ADA6-34145A64C34C}|TrabalhoFinal\\GerenciamentoVolei.csproj|solutionrelative:trabalhofinal\\01-services\\presencaservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F99095F3-5467-4F4A-ADA6-34145A64C34C}|TrabalhoFinal\\GerenciamentoVolei.csproj|d:\\arquivos pessoais\\gabriel\\gabriel\\trabalhos trilhas\\trabalho final paulo\\trabalhofinal\\02-repository\\data\\inicializadorbd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F99095F3-5467-4F4A-ADA6-34145A64C34C}|TrabalhoFinal\\GerenciamentoVolei.csproj|solutionrelative:trabalhofinal\\02-repository\\data\\inicializadorbd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F99095F3-5467-4F4A-ADA6-34145A64C34C}|TrabalhoFinal\\GerenciamentoVolei.csproj|d:\\arquivos pessoais\\gabriel\\gabriel\\trabalhos trilhas\\trabalho final paulo\\trabalhofinal\\01-services\\interfaces\\ipartidaservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F99095F3-5467-4F4A-ADA6-34145A64C34C}|TrabalhoFinal\\GerenciamentoVolei.csproj|solutionrelative:trabalhofinal\\01-services\\interfaces\\ipartidaservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F99095F3-5467-4F4A-ADA6-34145A64C34C}|TrabalhoFinal\\GerenciamentoVolei.csproj|d:\\arquivos pessoais\\gabriel\\gabriel\\trabalhos trilhas\\trabalho final paulo\\trabalhofinal\\01-services\\interfaces\\ipresencaservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F99095F3-5467-4F4A-ADA6-34145A64C34C}|TrabalhoFinal\\GerenciamentoVolei.csproj|solutionrelative:trabalhofinal\\01-services\\interfaces\\ipresencaservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F99095F3-5467-4F4A-ADA6-34145A64C34C}|TrabalhoFinal\\GerenciamentoVolei.csproj|d:\\arquivos pessoais\\gabriel\\gabriel\\trabalhos trilhas\\trabalho final paulo\\trabalhofinal\\03-entidades\\presenca.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F99095F3-5467-4F4A-ADA6-34145A64C34C}|TrabalhoFinal\\GerenciamentoVolei.csproj|solutionrelative:trabalhofinal\\03-entidades\\presenca.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F99095F3-5467-4F4A-ADA6-34145A64C34C}|TrabalhoFinal\\GerenciamentoVolei.csproj|d:\\arquivos pessoais\\gabriel\\gabriel\\trabalhos trilhas\\trabalho final paulo\\trabalhofinal\\03-entidades\\treinamento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F99095F3-5467-4F4A-ADA6-34145A64C34C}|TrabalhoFinal\\GerenciamentoVolei.csproj|solutionrelative:trabalhofinal\\03-entidades\\treinamento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A8AD7F8-016E-4EB3-B366-1C128BE6C937}|API\\API.csproj|d:\\arquivos pessoais\\gabriel\\gabriel\\trabalhos trilhas\\trabalho final paulo\\api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{4A8AD7F8-016E-4EB3-B366-1C128BE6C937}|API\\API.csproj|solutionrelative:api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A8AD7F8-016E-4EB3-B366-1C128BE6C937}|API\\API.csproj|d:\\arquivos pessoais\\gabriel\\gabriel\\trabalhos trilhas\\trabalho final paulo\\api\\controllers\\usuariocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4A8AD7F8-016E-4EB3-B366-1C128BE6C937}|API\\API.csproj|solutionrelative:api\\controllers\\usuariocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F99095F3-5467-4F4A-ADA6-34145A64C34C}|TrabalhoFinal\\GerenciamentoVolei.csproj|d:\\arquivos pessoais\\gabriel\\gabriel\\trabalhos trilhas\\trabalho final paulo\\trabalhofinal\\03-entidades\\dto\\partidadto\\partidadto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F99095F3-5467-4F4A-ADA6-34145A64C34C}|TrabalhoFinal\\GerenciamentoVolei.csproj|solutionrelative:trabalhofinal\\03-entidades\\dto\\partidadto\\partidadto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F99095F3-5467-4F4A-ADA6-34145A64C34C}|TrabalhoFinal\\GerenciamentoVolei.csproj|d:\\arquivos pessoais\\gabriel\\gabriel\\trabalhos trilhas\\trabalho final paulo\\trabalhofinal\\02-repository\\usuariorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F99095F3-5467-4F4A-ADA6-34145A64C34C}|TrabalhoFinal\\GerenciamentoVolei.csproj|solutionrelative:trabalhofinal\\02-repository\\usuariorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F99095F3-5467-4F4A-ADA6-34145A64C34C}|TrabalhoFinal\\GerenciamentoVolei.csproj|d:\\arquivos pessoais\\gabriel\\gabriel\\trabalhos trilhas\\trabalho final paulo\\trabalhofinal\\02-repository\\interfaces\\iusuariorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F99095F3-5467-4F4A-ADA6-34145A64C34C}|TrabalhoFinal\\GerenciamentoVolei.csproj|solutionrelative:trabalhofinal\\02-repository\\interfaces\\iusuariorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 11,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "JogadorController.cs",
+              "DocumentMoniker": "D:\\ARQUIVOS PESSOAIS\\Gabriel\\Gabriel\\Trabalhos Trilhas\\trabalho final paulo\\API\\Controllers\\JogadorController.cs",
+              "RelativeDocumentMoniker": "API\\Controllers\\JogadorController.cs",
+              "ToolTip": "D:\\ARQUIVOS PESSOAIS\\Gabriel\\Gabriel\\Trabalhos Trilhas\\trabalho final paulo\\API\\Controllers\\JogadorController.cs",
+              "RelativeToolTip": "API\\Controllers\\JogadorController.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAA0AAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-14T00:29:42.868Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "PartidaController.cs",
+              "DocumentMoniker": "D:\\ARQUIVOS PESSOAIS\\Gabriel\\Gabriel\\Trabalhos Trilhas\\trabalho final paulo\\API\\Controllers\\PartidaController.cs",
+              "RelativeDocumentMoniker": "API\\Controllers\\PartidaController.cs",
+              "ToolTip": "D:\\ARQUIVOS PESSOAIS\\Gabriel\\Gabriel\\Trabalhos Trilhas\\trabalho final paulo\\API\\Controllers\\PartidaController.cs",
+              "RelativeToolTip": "API\\Controllers\\PartidaController.cs",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAowDwAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-13T23:45:51.319Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "EstatisticasPartidaController.cs",
+              "DocumentMoniker": "D:\\ARQUIVOS PESSOAIS\\Gabriel\\Gabriel\\Trabalhos Trilhas\\trabalho final paulo\\API\\Controllers\\EstatisticasPartidaController.cs",
+              "RelativeDocumentMoniker": "API\\Controllers\\EstatisticasPartidaController.cs",
+              "ToolTip": "D:\\ARQUIVOS PESSOAIS\\Gabriel\\Gabriel\\Trabalhos Trilhas\\trabalho final paulo\\API\\Controllers\\EstatisticasPartidaController.cs",
+              "RelativeToolTip": "API\\Controllers\\EstatisticasPartidaController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAD0AAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-14T00:32:10.868Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "PresencaController.cs",
+              "DocumentMoniker": "D:\\ARQUIVOS PESSOAIS\\Gabriel\\Gabriel\\Trabalhos Trilhas\\trabalho final paulo\\API\\Controllers\\PresencaController.cs",
+              "RelativeDocumentMoniker": "API\\Controllers\\PresencaController.cs",
+              "ToolTip": "D:\\ARQUIVOS PESSOAIS\\Gabriel\\Gabriel\\Trabalhos Trilhas\\trabalho final paulo\\API\\Controllers\\PresencaController.cs",
+              "RelativeToolTip": "API\\Controllers\\PresencaController.cs",
+              "ViewState": "AgIAAEcAAAAAAAAAAAAIwE0AAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-13T23:27:34.555Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "TreinadorController.cs",
+              "DocumentMoniker": "D:\\ARQUIVOS PESSOAIS\\Gabriel\\Gabriel\\Trabalhos Trilhas\\trabalho final paulo\\API\\Controllers\\TreinadorController.cs",
+              "RelativeDocumentMoniker": "API\\Controllers\\TreinadorController.cs",
+              "ToolTip": "D:\\ARQUIVOS PESSOAIS\\Gabriel\\Gabriel\\Trabalhos Trilhas\\trabalho final paulo\\API\\Controllers\\TreinadorController.cs",
+              "RelativeToolTip": "API\\Controllers\\TreinadorController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADUAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-13T23:20:04.427Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "TreinamentoController.cs",
+              "DocumentMoniker": "D:\\ARQUIVOS PESSOAIS\\Gabriel\\Gabriel\\Trabalhos Trilhas\\trabalho final paulo\\API\\Controllers\\TreinamentoController.cs",
+              "RelativeDocumentMoniker": "API\\Controllers\\TreinamentoController.cs",
+              "ToolTip": "D:\\ARQUIVOS PESSOAIS\\Gabriel\\Gabriel\\Trabalhos Trilhas\\trabalho final paulo\\API\\Controllers\\TreinamentoController.cs",
+              "RelativeToolTip": "API\\Controllers\\TreinamentoController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-13T23:17:15.622Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "TreinadorService.cs",
+              "DocumentMoniker": "D:\\ARQUIVOS PESSOAIS\\Gabriel\\Gabriel\\Trabalhos Trilhas\\trabalho final paulo\\TrabalhoFinal\\01-Services\\TreinadorService.cs",
+              "RelativeDocumentMoniker": "TrabalhoFinal\\01-Services\\TreinadorService.cs",
+              "ToolTip": "D:\\ARQUIVOS PESSOAIS\\Gabriel\\Gabriel\\Trabalhos Trilhas\\trabalho final paulo\\TrabalhoFinal\\01-Services\\TreinadorService.cs",
+              "RelativeToolTip": "TrabalhoFinal\\01-Services\\TreinadorService.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAqwBsAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-14T02:21:37.053Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\ARQUIVOS PESSOAIS\\Gabriel\\Gabriel\\Trabalhos Trilhas\\trabalho final paulo\\API\\Program.cs",
+              "RelativeDocumentMoniker": "API\\Program.cs",
+              "ToolTip": "D:\\ARQUIVOS PESSOAIS\\Gabriel\\Gabriel\\Trabalhos Trilhas\\trabalho final paulo\\API\\Program.cs",
+              "RelativeToolTip": "API\\Program.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAEwB8AAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-14T02:14:49.103Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "TreinamentoRepository.cs",
+              "DocumentMoniker": "D:\\ARQUIVOS PESSOAIS\\Gabriel\\Gabriel\\Trabalhos Trilhas\\trabalho final paulo\\TrabalhoFinal\\02-Repository\\TreinamentoRepository.cs",
+              "RelativeDocumentMoniker": "TrabalhoFinal\\02-Repository\\TreinamentoRepository.cs",
+              "ToolTip": "D:\\ARQUIVOS PESSOAIS\\Gabriel\\Gabriel\\Trabalhos Trilhas\\trabalho final paulo\\TrabalhoFinal\\02-Repository\\TreinamentoRepository.cs",
+              "RelativeToolTip": "TrabalhoFinal\\02-Repository\\TreinamentoRepository.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAUwBoAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-13T23:17:15.467Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "EstatisticasPartidaService.cs",
+              "DocumentMoniker": "D:\\ARQUIVOS PESSOAIS\\Gabriel\\Gabriel\\Trabalhos Trilhas\\trabalho final paulo\\TrabalhoFinal\\01-Services\\EstatisticasPartidaService.cs",
+              "RelativeDocumentMoniker": "TrabalhoFinal\\01-Services\\EstatisticasPartidaService.cs",
+              "ToolTip": "D:\\ARQUIVOS PESSOAIS\\Gabriel\\Gabriel\\Trabalhos Trilhas\\trabalho final paulo\\TrabalhoFinal\\01-Services\\EstatisticasPartidaService.cs",
+              "RelativeToolTip": "TrabalhoFinal\\01-Services\\EstatisticasPartidaService.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABgAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-14T02:20:40.505Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "EquipeController.cs",
+              "DocumentMoniker": "D:\\ARQUIVOS PESSOAIS\\Gabriel\\Gabriel\\Trabalhos Trilhas\\trabalho final paulo\\API\\Controllers\\EquipeController.cs",
+              "RelativeDocumentMoniker": "API\\Controllers\\EquipeController.cs",
+              "ToolTip": "D:\\ARQUIVOS PESSOAIS\\Gabriel\\Gabriel\\Trabalhos Trilhas\\trabalho final paulo\\API\\Controllers\\EquipeController.cs",
+              "RelativeToolTip": "API\\Controllers\\EquipeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADwAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-13T23:17:15.633Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "PresencaRepository.cs",
+              "DocumentMoniker": "D:\\ARQUIVOS PESSOAIS\\Gabriel\\Gabriel\\Trabalhos Trilhas\\trabalho final paulo\\TrabalhoFinal\\02-Repository\\PresencaRepository.cs",
+              "RelativeDocumentMoniker": "TrabalhoFinal\\02-Repository\\PresencaRepository.cs",
+              "ToolTip": "D:\\ARQUIVOS PESSOAIS\\Gabriel\\Gabriel\\Trabalhos Trilhas\\trabalho final paulo\\TrabalhoFinal\\02-Repository\\PresencaRepository.cs",
+              "RelativeToolTip": "TrabalhoFinal\\02-Repository\\PresencaRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-13T23:17:15.637Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "PresencaService.cs",
+              "DocumentMoniker": "D:\\ARQUIVOS PESSOAIS\\Gabriel\\Gabriel\\Trabalhos Trilhas\\trabalho final paulo\\TrabalhoFinal\\01-Services\\PresencaService.cs",
+              "RelativeDocumentMoniker": "TrabalhoFinal\\01-Services\\PresencaService.cs",
+              "ToolTip": "D:\\ARQUIVOS PESSOAIS\\Gabriel\\Gabriel\\Trabalhos Trilhas\\trabalho final paulo\\TrabalhoFinal\\01-Services\\PresencaService.cs",
+              "RelativeToolTip": "TrabalhoFinal\\01-Services\\PresencaService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACkAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-13T23:34:58.9Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "IPresencaService.cs",
+              "DocumentMoniker": "D:\\ARQUIVOS PESSOAIS\\Gabriel\\Gabriel\\Trabalhos Trilhas\\trabalho final paulo\\TrabalhoFinal\\01-Services\\Interfaces\\IPresencaService.cs",
+              "RelativeDocumentMoniker": "TrabalhoFinal\\01-Services\\Interfaces\\IPresencaService.cs",
+              "ToolTip": "D:\\ARQUIVOS PESSOAIS\\Gabriel\\Gabriel\\Trabalhos Trilhas\\trabalho final paulo\\TrabalhoFinal\\01-Services\\Interfaces\\IPresencaService.cs",
+              "RelativeToolTip": "TrabalhoFinal\\01-Services\\Interfaces\\IPresencaService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-13T23:36:32.116Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "InicializadorBd.cs",
+              "DocumentMoniker": "D:\\ARQUIVOS PESSOAIS\\Gabriel\\Gabriel\\Trabalhos Trilhas\\trabalho final paulo\\TrabalhoFinal\\02-Repository\\Data\\InicializadorBd.cs",
+              "RelativeDocumentMoniker": "TrabalhoFinal\\02-Repository\\Data\\InicializadorBd.cs",
+              "ToolTip": "D:\\ARQUIVOS PESSOAIS\\Gabriel\\Gabriel\\Trabalhos Trilhas\\trabalho final paulo\\TrabalhoFinal\\02-Repository\\Data\\InicializadorBd.cs",
+              "RelativeToolTip": "TrabalhoFinal\\02-Repository\\Data\\InicializadorBd.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-13T23:17:15.603Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "IPartidaService.cs",
+              "DocumentMoniker": "D:\\ARQUIVOS PESSOAIS\\Gabriel\\Gabriel\\Trabalhos Trilhas\\trabalho final paulo\\TrabalhoFinal\\01-Services\\Interfaces\\IPartidaService.cs",
+              "RelativeDocumentMoniker": "TrabalhoFinal\\01-Services\\Interfaces\\IPartidaService.cs",
+              "ToolTip": "D:\\ARQUIVOS PESSOAIS\\Gabriel\\Gabriel\\Trabalhos Trilhas\\trabalho final paulo\\TrabalhoFinal\\01-Services\\Interfaces\\IPartidaService.cs",
+              "RelativeToolTip": "TrabalhoFinal\\01-Services\\Interfaces\\IPartidaService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-13T23:17:15.64Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Presenca.cs",
+              "DocumentMoniker": "D:\\ARQUIVOS PESSOAIS\\Gabriel\\Gabriel\\Trabalhos Trilhas\\trabalho final paulo\\TrabalhoFinal\\03-Entidades\\Presenca.cs",
+              "RelativeDocumentMoniker": "TrabalhoFinal\\03-Entidades\\Presenca.cs",
+              "ToolTip": "D:\\ARQUIVOS PESSOAIS\\Gabriel\\Gabriel\\Trabalhos Trilhas\\trabalho final paulo\\TrabalhoFinal\\03-Entidades\\Presenca.cs",
+              "RelativeToolTip": "TrabalhoFinal\\03-Entidades\\Presenca.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAsAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-13T23:17:15.611Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\ARQUIVOS PESSOAIS\\Gabriel\\Gabriel\\Trabalhos Trilhas\\trabalho final paulo\\API\\appsettings.json",
+              "RelativeDocumentMoniker": "API\\appsettings.json",
+              "ToolTip": "D:\\ARQUIVOS PESSOAIS\\Gabriel\\Gabriel\\Trabalhos Trilhas\\trabalho final paulo\\API\\appsettings.json",
+              "RelativeToolTip": "API\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-11-13T23:17:15.629Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "IUsuarioRepository.cs",
+              "DocumentMoniker": "D:\\ARQUIVOS PESSOAIS\\Gabriel\\Gabriel\\Trabalhos Trilhas\\trabalho final paulo\\TrabalhoFinal\\02-Repository\\Interfaces\\IUsuarioRepository.cs",
+              "RelativeDocumentMoniker": "TrabalhoFinal\\02-Repository\\Interfaces\\IUsuarioRepository.cs",
+              "ToolTip": "D:\\ARQUIVOS PESSOAIS\\Gabriel\\Gabriel\\Trabalhos Trilhas\\trabalho final paulo\\TrabalhoFinal\\02-Repository\\Interfaces\\IUsuarioRepository.cs",
+              "RelativeToolTip": "TrabalhoFinal\\02-Repository\\Interfaces\\IUsuarioRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-13T23:17:15.626Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "UsuarioController.cs",
+              "DocumentMoniker": "D:\\ARQUIVOS PESSOAIS\\Gabriel\\Gabriel\\Trabalhos Trilhas\\trabalho final paulo\\API\\Controllers\\UsuarioController.cs",
+              "RelativeDocumentMoniker": "API\\Controllers\\UsuarioController.cs",
+              "ToolTip": "D:\\ARQUIVOS PESSOAIS\\Gabriel\\Gabriel\\Trabalhos Trilhas\\trabalho final paulo\\API\\Controllers\\UsuarioController.cs",
+              "RelativeToolTip": "API\\Controllers\\UsuarioController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB4AAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-13T23:17:15.614Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Treinamento.cs",
+              "DocumentMoniker": "D:\\ARQUIVOS PESSOAIS\\Gabriel\\Gabriel\\Trabalhos Trilhas\\trabalho final paulo\\TrabalhoFinal\\03-Entidades\\Treinamento.cs",
+              "RelativeDocumentMoniker": "TrabalhoFinal\\03-Entidades\\Treinamento.cs",
+              "ToolTip": "D:\\ARQUIVOS PESSOAIS\\Gabriel\\Gabriel\\Trabalhos Trilhas\\trabalho final paulo\\TrabalhoFinal\\03-Entidades\\Treinamento.cs",
+              "RelativeToolTip": "TrabalhoFinal\\03-Entidades\\Treinamento.cs",
+              "ViewState": "AQIAAAEAAAAAAAAAAAAhwAwAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-13T23:17:15.608Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "UsuarioRepository.cs",
+              "DocumentMoniker": "D:\\ARQUIVOS PESSOAIS\\Gabriel\\Gabriel\\Trabalhos Trilhas\\trabalho final paulo\\TrabalhoFinal\\02-Repository\\UsuarioRepository.cs",
+              "RelativeDocumentMoniker": "TrabalhoFinal\\02-Repository\\UsuarioRepository.cs",
+              "ToolTip": "D:\\ARQUIVOS PESSOAIS\\Gabriel\\Gabriel\\Trabalhos Trilhas\\trabalho final paulo\\TrabalhoFinal\\02-Repository\\UsuarioRepository.cs",
+              "RelativeToolTip": "TrabalhoFinal\\02-Repository\\UsuarioRepository.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAIBJwCAAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-13T23:17:15.643Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "PartidaDTO.cs",
+              "DocumentMoniker": "D:\\ARQUIVOS PESSOAIS\\Gabriel\\Gabriel\\Trabalhos Trilhas\\trabalho final paulo\\TrabalhoFinal\\03-Entidades\\DTO\\PartidaDTO\\PartidaDTO.cs",
+              "RelativeDocumentMoniker": "TrabalhoFinal\\03-Entidades\\DTO\\PartidaDTO\\PartidaDTO.cs",
+              "ToolTip": "D:\\ARQUIVOS PESSOAIS\\Gabriel\\Gabriel\\Trabalhos Trilhas\\trabalho final paulo\\TrabalhoFinal\\03-Entidades\\DTO\\PartidaDTO\\PartidaDTO.cs",
+              "RelativeToolTip": "TrabalhoFinal\\03-Entidades\\DTO\\PartidaDTO\\PartidaDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-13T23:17:15.647Z"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -38,5 +38,7 @@ namespace GerenciamentoVolei._01_Services
         {
             return repositorio.Listar();
         }
+
+        
     }
 }

@@ -13,6 +13,6 @@ namespace GerenciamentoVolei._01_Services.Interfaces
         void Remover(int id);
         void Editar(EstatisticasPartida estatistica);
         List<EstatisticasPartida> Listar();
-
+        void Editar(Partida e);
     }
 }

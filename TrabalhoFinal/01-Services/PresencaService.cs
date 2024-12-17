@@ -38,5 +38,10 @@ namespace GerenciamentoVolei._01_Services
         {
             return repositorio.Listar();
         }
+
+        public void BuscarPorId(int IdPresenca)
+        {
+            repositorio.BuscarPorId(IdPresenca);
+        }
     }
 }
